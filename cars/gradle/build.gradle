@@ -4,6 +4,7 @@ buildscript {
     }
     dependencies {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:2.0.3.RELEASE")
+        compile group: 'org.springframework', name: 'spring-orm', version: '3.0.6.RELEASE'
     }
 }
 
