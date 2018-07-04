@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfe5ec0d-26f2-43d3-b5c8-470e297038da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/gradle/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="bfe5ec0d-26f2-43d3-b5c8-470e297038da" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/gradle/.gradle/" />
     <ignored path="$PROJECT_DIR$/gradle/build/" />
@@ -32,8 +30,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gradle/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -475,15 +473,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530722674532</updated>
-      <workItem from="1530722676140" duration="533000" />
+      <workItem from="1530722676140" duration="1253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533000" />
+    <option name="totallyTimeSpent" value="1253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="42" width="1400" height="970" extended-state="0" />
+    <frame x="282" y="40" width="1400" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -528,8 +526,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gradle/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
         </state>
       </provider>
     </entry>
